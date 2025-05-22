@@ -1,0 +1,26 @@
+READ ME
+
+May 7, 2016
+
+These Gentle Giant charts were transcribed by Phil Smith of Wisconsin (philsmith@att.net) around 10 years ago. They were originally created in an old version of Sibelius, and only made available to the public in low-resolution .BMP files (one page per file) on the Gentle Giant Home Page
+
+http://www.blazemonger.com/GG/Gentle_Giant_Home_Page
+
+In 2016, Wheat Williams of Atlanta, Georgia (wheat@wheatwilliams.com) contacted Phil Smith and asked for his source documents in Sibelius format. Wheat Williams imported them into Sibelius 8.3, edited them substantially, and output the edited scores as resolution-independent PDF documents with all the pages of the score in one document.
+
+Enclosed in this bundle are a Gentle Giant score in the following formats:
+
+ - PDF
+ - Sibelius 7
+ - MusicXML
+
+1) PDF. This is a “conductor’s score” with all parts in systems, formatted to print on paper in US Letter size (8 1/2 x 11 inches or 216mm x 279mm)
+
+2) Sibelius 7 format. This can be opened up in Sibelius 7.x or 8.x for Macintosh or Windows, and further modified and edited. You can also extract individual parts, format them and print them; for example, you can extract just the lead guitar part or just the piano part.
+
+3) MusicXML 3.0 (in some cases MusicXML Compressed). This is an interchange format that you can import into most any major score editing program such as Finale, MuseScore and Sibelius. In this way if you don’t have Sibelius 7 or higher, you have the ability to work with the piece in the score editing software you already own. You can further edit and arrange the music, and extract parts. MusicXML interchange is not precise in all cases; the score you create will require considerable editing to get it to look as good as the PDF version. For example, a score created from MusicXML will have all the notes intact, but certain parts may be transposed to the wrong octave, there may not be enough space between staves in a system and parts may overlap, or the overall horizontal note spacing may require adjustment. It is up to you to use the tools in your music notation software to reformat and straighten out these problems.
+
+In addition, depending on the capabilities of your score editing program, you may be able to import a MusicXML score and then output it as a Standard MIDI File for use in a DAW or sequencing program.
+
+———
+These musical compositions are copyrighted internationally. Copyright attribution has been given at the bottom of the title page of each score.
